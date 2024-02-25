@@ -19,6 +19,7 @@
     "@docusaurus/preset-classic": "3.0.0",
     "@mdx-js/react": "^3.0.0",
     "@types/next": "^9.0.0",
+    "@types/tailwindcss": "^3.1.0",
     "clsx": "^1.2.1",
     "my-loaders": "file:./plugins/my-loaders",
     "next": "^14.0.1",
@@ -26,9 +27,16 @@
     "postcss-preset-env": "^9.3.0",
     "prism-react-renderer": "^2.1.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-tsparticles": "^2.12.2",
+    "react-type-animation": "^3.2.0",
+    "tailwindcss-classnames": "^3.1.0",
+    "tsparticles": "^2.12.0",
+    "tsparticles-engine": "^2.12.0",
+    "tsparticles-preset-links": "^2.12.0"
   },
   "devDependencies": {
+    "@chakra-ui/react": "^2.8.2",
     "@docusaurus/module-type-aliases": "3.0.0",
     "@docusaurus/tsconfig": "3.0.0",
     "@docusaurus/types": "3.0.0",
